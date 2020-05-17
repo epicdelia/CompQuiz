@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "489051141691",
+    "firebase_url": "https://interview-quiz-37b44.firebaseio.com",
+    "project_id": "interview-quiz-37b44",
+    "storage_bucket": "interview-quiz-37b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489051141691:android:b77b70a30b370f09258e1e",
+        "android_client_info": {
+          "package_name": "com.example.compquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489051141691-u70o3fl8ggqahr6putnjtrcvhme6krvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQkid8bIXxpQp_LaZhqzYTJLm_ckIhBAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489051141691-u70o3fl8ggqahr6putnjtrcvhme6krvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
